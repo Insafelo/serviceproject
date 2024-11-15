@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b4aecb4-c164-4128-bc22-a820c7f26f54" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tisbiProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/templates/main/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/authorization/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/v4-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/v4-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/v5-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/css/v5-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/fontawesome/fonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/img/bg-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/static/main/img/logo-mechanic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/templates/main/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/templates/main/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/serviceapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/serviceapp/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/serviceapp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/serviceapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serviceapp/serviceapp/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="83d9643d-3012-4930-9dfd-bca15f30c14b" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2otEDwGxixGRZcl8f5dqg6eC204" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/insaf/Desktop/WebServiceProject/tisbiProject/serviceapp/main/static/main/fontawesome/fonts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\insaf\Desktop\WebServiceProject\tisbiProject\serviceapp\main\static\main\fontawesome\fonts" />
+      <recent name="C:\Users\insaf\Desktop\WebServiceProject\tisbiProject\serviceapp\main\static\main\fontawesome\css" />
+      <recent name="C:\Users\insaf\Desktop\WebServiceProject\tisbiProject\serviceapp\main\static\main\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\insaf\Desktop\WebServiceProject\tisbiProject\serviceapp\main\static\main" />
+      <recent name="C:\Users\insaf\Desktop\WebServiceProject\tisbiProject\serviceapp\main\static\main\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="tisbiProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4aecb4-c164-4128-bc22-a820c7f26f54" name="Changes" comment="" />
+      <created>1731680355989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731680355989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
